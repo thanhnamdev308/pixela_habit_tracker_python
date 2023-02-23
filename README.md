@@ -2,6 +2,10 @@
 
 This is a Pixela API user interface I made with Python.
 
+Pixela webpage: https://pixe.la
+
+Visit my Pixela profile: https://pixe.la/@thanhnamdev308
+
 With this interface, you can:
 
 - User functionalities:
@@ -27,7 +31,7 @@ With this interface, you can:
 
 # Run the program
 ```commandline
-git clone
+git clone https://github.com/thanhnamdev308/pixela_habit_tracker_python
 ```
 ```commandline
 cd pixela_habit_tracker_python && cd habit_tracker
